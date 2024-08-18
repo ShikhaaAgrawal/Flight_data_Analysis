@@ -1,6 +1,7 @@
 **Flight Price Prediction**
 
-Project Overview
+Project Overview:
+
 This project focuses on predicting flight prices based on various features such as flight duration, the number of stops, departure and arrival times, and more. By leveraging different machine learning models, the aim is to provide accurate predictions that can help travelers make informed decisions.
 
 **Table of Contents**
