@@ -61,15 +61,19 @@ The model performances are summarized below:
 _Linear Regression:_
 * MSE: 2888.44
 * R²: 0.08
+  
 _Decision Tree:_
 * MSE: 1997.96
 * R²: 0.36
+  
 _Random Forest:_
 * MSE: 1997.00
 * R²: 0.36
+  
 _Support Vector:_
 * MSE: 3241.98
 * R²: -0.03
+  
 **The best performing model was Random Forest Regression with an MSE of 1997.00 and R² of 0.36.**
   
 **Conclusion**
