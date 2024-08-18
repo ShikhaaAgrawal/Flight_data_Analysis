@@ -1,4 +1,5 @@
 **Flight Price Prediction**
+
 Project Overview
 This project focuses on predicting flight prices based on various features such as flight duration, the number of stops, departure and arrival times, and more. By leveraging different machine learning models, the aim is to provide accurate predictions that can help travelers make informed decisions.
 
@@ -74,9 +75,11 @@ _Support Vector:_
 This project demonstrates the effectiveness of various machine learning models in predicting flight prices. The Random Forest model, in particular, provided the most accurate predictions. These models can serve as a foundation for developing more advanced price prediction systems.
 
 **Future Work**
-_Hyperparameter Tuning:_ Further optimization of the model parameters to improve accuracy.
-_Incorporate More Features:_ Adding features like airline reputation, seasonal factors, and historical prices.
-_Deploy Model:_ Develop a web application or API for real-time price prediction.
+
+* _Hyperparameter Tuning:_ Further optimization of the model parameters to improve accuracy.
+* _Incorporate More Features:_ Adding features like airline reputation, seasonal factors, and historical prices.
+* _Deploy Model:_ Develop a web application or API for real-time price prediction.
+  
 
 **Contributing**
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any ideas or improvements.
