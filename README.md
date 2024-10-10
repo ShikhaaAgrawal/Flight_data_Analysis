@@ -59,22 +59,26 @@ The following machine learning models were applied:
 The model performances are summarized below:
 
 _Linear Regression:_
-* MSE: 2888.44
-* R²: 0.08
+* MSE: 3615.7599
+* R²: 0.6002
+
+_Multiple Linear Regression:_
+* MSE: 2595.4252
+* R²: 0.717325
   
 _Decision Tree:_
-* MSE: 1997.96
-* R²: 0.36
+* MSE: 149.253
+* R²: 0.983744
   
 _Random Forest:_
-* MSE: 1997.00
-* R²: 0.36
+* MSE: 149.308
+* R²: 0.983749
   
 _Support Vector:_
-* MSE: 3241.98
-* R²: -0.03
+* MSE: 6063.841
+* R²: 0.33957
   
-**The best performing model was Random Forest Regression with an MSE of 1997.00 and R² of 0.36.**
+**The best performing model was Random Forest Regression with an MSE of 149.308 and R² of 0.983749.**
   
 **Conclusion**
 This project demonstrates the effectiveness of various machine learning models in predicting flight prices. The Random Forest model, in particular, provided the most accurate predictions. These models can serve as a foundation for developing more advanced price prediction systems.
